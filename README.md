@@ -1,4 +1,4 @@
-# Daftar Server speedtest.net
-Merupakan daftar server Speedtest.net yang disimpan dalam bentuk script address-list MikroTik.
-Untuk menggunakannya, upload file ke MikroTik, kemudian jalankan perintah import.
-Dipersilahkan bagi yang ingin membantu update daftar
+# Speedtest.net Server List
+Speedtest.net server listin MikroTik's firewall address-list format.
+To use it, upload to your router then run import command from terminal.
+Feel free to update the list.
